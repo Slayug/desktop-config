@@ -24,7 +24,7 @@ Theme from: [https://www.reddit.com/r/unixporn/comments/3cn5gi/tmux_is_my_wm_on_
  - Alt + Shift + a	=> Tile window to the top-left
  - Alt + Shift + e	=> Tile window to the top-right
  - Alt + Shift + w	=> Tile window to the bottom-left
- - Alt + Shift + c	=> Tile window to the bottom-right
+ - Alt + Shift + c	=> Tile window to the bottom-right  
 ==================================
  - Alt + Shift + 1		=> Maximize window horizontally
  - Alt + Shift + 2		=> Maximize window vertically
