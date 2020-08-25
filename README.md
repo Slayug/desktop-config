@@ -15,6 +15,9 @@ A lot of things from [https://www.hamvocke.com/blog/a-guide-to-customizing-your-
 
 Theme from: [https://www.reddit.com/r/unixporn/comments/3cn5gi/tmux_is_my_wm_on_os_x/](https://www.reddit.com/r/unixporn/comments/3cn5gi/tmux_is_my_wm_on_os_x/) but changed blue to green !
 
+# Emoji font
+`noto-fonts-emoji`
+
 # xfce4
 ## Window
  - Alt + Shift + q	=> Tile window to the left
