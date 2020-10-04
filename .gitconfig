@@ -1,0 +1,11 @@
+[user]
+	name = Alex
+	email = alex.loo@protonmail.com
+[core]
+	editor = vim
+[alias]
+        lg = log --graph --decorate --pretty=oneline --abbrev-commit --all
+        s = status
+        statu = status
+        ch = checkout
+        co = commit
