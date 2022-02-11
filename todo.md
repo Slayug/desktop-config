@@ -8,3 +8,4 @@ after that you’ll be prompted to press the key you want to activate the shortc
 ```
 
 - [ ] Liste des packets à installer par défaut, Ansible ?
+- [ ] Ajouter l'install de shellder `omf install https://github.com/simnalamburt/shellder`
