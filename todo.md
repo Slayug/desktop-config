@@ -7,7 +7,7 @@ then go to Applications Shortcut and press Add, after you type the name of comma
 after that you’ll be prompted to press the key you want to activate the shortcut, just press the Windows Key and it’s done.
 ```
 
-- [ ] Liste des packets à installer par défaut, tmux, Ansible, xdotool, omf, powerline-fonts, (curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install | fish)
+- [ ] Liste des packets à installer par défaut, tmux, Ansible, xdotool, omf, docker, discord, powerline-fonts, (curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install | fish)
 - [ ] Ajouter l'install de shellder `omf install https://github.com/simnalamburt/shellder`
 - [ ] To make fish your default shell:
     * Add the line /usr/local/bin/fish to /etc/shells.
